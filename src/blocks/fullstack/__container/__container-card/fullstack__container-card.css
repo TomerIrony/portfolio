@@ -1,0 +1,22 @@
+.fullstack__container-card {
+  width: 288px;
+  height: 290px;
+  background-color: #e5e5e5;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  text-align: left;
+}
+
+.fullstack__container-card-front {
+  width: 288px;
+  height: 290px;
+  background-color: #676cdb;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: white;
+  text-align: left;
+}

@@ -1,38 +1,30 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+@import url(./blocks/root/root.css);
+@import url(./blocks/homepage/homepage.css);
+@import url(./blocks/homepage/__navbar/homepage__navbar.css);
+@import url(./blocks/homepage/__navbar/__navbar-links/homepage__navbar-links.css);
+@import url(./blocks/homepage/__navbar/__navbar-link/homepage__navbar-link.css);
+@import url(./blocks/homepage/__container/homepage__container.css);
+@import url(./blocks/homepage/__name/homepage__name.css);
+@import url(./blocks/homepage/__text/homepage__text.css);
+@import url(./blocks/homepage/__buttons/homepage__buttons.css);
+@import url(./blocks/homepage/__buttons/__buttons-email/homepage__buttons-email.css);
+@import url(./blocks/homepage/__buttons/__buttons-email/homepage__buttons-email-svg.css);
+@import url(./blocks/homepage/__buttons/__buttons-cv/homepage__buttons-cv.css);
+@import url(./blocks/homepage/__buttons/__buttons-cv/homepage__buttons-cv-svg.css);
+@import url(./blocks/icons/icons.css);
+@import url(./blocks/icons/__container/icons__container.css);
+@import url(./blocks/background/background.css);
+@import url(./blocks/light/light.css);
+@import url(./blocks/homepage/__fix/homepage__fix.css);
+@import url(./blocks/icons/__icon/icons__icon.css);
+@import url(./blocks/fullstack/fullstack.css);
+@import url(./blocks/fullstack/__container/fullstack__container.css);
+@import url(./blocks/fullstack/__container/__container-text/fullstack__container-text.css);
+@import url(./blocks/fullstack/__container/__container-cards/fullstack__container-cards.css);
+@import url(./blocks/fullstack/__container/__container-card/fullstack__container-card.css);
+@import url(./blocks/fullstack/__container/__container-card/__container-card-text/fullstack__container-card-text.css);
+@import url(./blocks/fullstack/__svg/fullstack__svg.css);
+@import url(./blocks/connect/connect.css);
+@import url(./blocks/connect/__container/connect__container.css);
+@import url(./blocks/connect/__container/__container-text/connect__container-text.css);
+@import url(./blocks/connect/__icon-container/connect__icon-container.css);

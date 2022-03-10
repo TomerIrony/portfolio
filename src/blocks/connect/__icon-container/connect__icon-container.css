@@ -1,0 +1,6 @@
+.connect__icon-container {
+  display: flex;
+  width: 8%;
+  margin: 45px 0 0 0;
+  justify-content: space-between;
+}

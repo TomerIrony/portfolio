@@ -1,0 +1,10 @@
+.homepage__buttons-email {
+  border: none;
+  background-color: #676cdb;
+  padding: 15px 55px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  position: relative;
+  display: flex;
+}

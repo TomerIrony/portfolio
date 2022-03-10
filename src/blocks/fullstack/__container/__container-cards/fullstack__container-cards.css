@@ -1,0 +1,8 @@
+.fullstack__container-cards {
+  margin: 20px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  color: black;
+  line-height: 120%;
+}

@@ -1,0 +1,7 @@
+.homepage__buttons-cv {
+  margin: 0 0 0 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  display: flex;
+  text-decoration: underline;
+}

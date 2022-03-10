@@ -1,0 +1,5 @@
+.homepage__navbar-links {
+  display: flex;
+  width: 25.5%;
+  justify-content: space-evenly;
+}
