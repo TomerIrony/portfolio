@@ -1,5 +1,7 @@
 .icons {
-  background-color: black;
+  /* background-color: black; */
+  background-color: #676cdb;
+
   height: 200px;
   display: flex;
   justify-content: center;
