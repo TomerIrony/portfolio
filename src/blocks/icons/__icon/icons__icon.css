@@ -1,4 +1,14 @@
 .icons__icon {
   max-width: 100px;
   max-height: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+.icons__icon:hover {
+  transform: scale(1.7);
+}
+
+.icon-green {
+  filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg)
+    brightness(118%) contrast(119%);
 }
