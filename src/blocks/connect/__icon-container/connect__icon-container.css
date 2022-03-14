@@ -4,3 +4,10 @@
   margin: 45px 0 0 0;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 750px) {
+  .connect__icon-container {
+    width: 15%;
+    margin: 20px 0 0 0;
+  }
+}

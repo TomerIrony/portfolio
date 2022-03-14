@@ -1,3 +1,9 @@
 .fullstack__svg {
   margin: 0 0 0 30px;
 }
+
+@media screen and (max-width: 750px) {
+  .fullstack__svg {
+    margin: 0;
+  }
+}

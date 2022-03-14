@@ -33,32 +33,6 @@ function Homepage(props) {
             </span>
             <div>Email me</div>
           </button>
-          <div className="homepage__buttons-cv">
-            <span className="homepage__buttons-cv-svg">
-              <svg
-                width="20"
-                height="20"
-                viewBox="0 0 20 20"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M10 12.5L13.3333 9.16667M10 12.5V2.5V12.5ZM10 12.5L6.66667 9.16667L10 12.5Z"
-                  stroke="white"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                />
-                <path
-                  d="M1.66667 14.1667L2.18417 16.2375C2.2743 16.5981 2.48236 16.9182 2.77528 17.1469C3.0682 17.3757 3.42918 17.4999 3.80084 17.5H16.1992C16.5708 17.4999 16.9318 17.3757 17.2247 17.1469C17.5177 16.9182 17.7257 16.5981 17.8158 16.2375L18.3333 14.1667"
-                  stroke="white"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                />
-              </svg>
-            </span>
-            <div>Download CV</div>
-          </div>
         </div>
       </div>
     </div>

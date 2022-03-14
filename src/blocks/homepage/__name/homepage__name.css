@@ -5,3 +5,11 @@
 
   font-family: 'Roboto Slab', serif;
 }
+
+@media screen and (max-width: 750px) {
+  .homepage__name {
+    font-size: 2.4em;
+    padding: 50px 0 0 0;
+    text-align: center;
+  }
+}

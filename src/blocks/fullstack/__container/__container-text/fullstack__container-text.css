@@ -3,3 +3,9 @@
   font-family: 'Roboto Slab', serif;
   font-size: larger;
 }
+
+@media screen and (max-width: 750px) {
+  .fullstack__container-text {
+    margin: 50px 0 0 0;
+  }
+}

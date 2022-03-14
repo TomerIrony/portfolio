@@ -1,6 +1,7 @@
 .icons__icon {
-  max-width: 100px;
+  max-width: 14vw;
   max-height: 100px;
+
   transition: 0.5s ease-in-out;
 }
 
@@ -11,4 +12,10 @@
 .icon-green {
   filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg)
     brightness(118%) contrast(119%);
+}
+
+@media screen and (max-width: 500px) {
+  .icons__icon:hover {
+    transform: scale(1.5);
+  }
 }

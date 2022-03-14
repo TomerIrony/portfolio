@@ -10,6 +10,7 @@ function Connect(props) {
           </h1>
           <div className="connect__icon-container">
             <svg
+              className="connect__icon-linkedin"
               width="25"
               height="25"
               viewBox="0 0 25 25"
