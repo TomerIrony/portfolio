@@ -7,11 +7,11 @@ import Temp from '../pages/Temp';
 function MainRoutes(props) {
   return (
     <Routes>
-      <Route path="/" element={<App />} />
       {cards.map((card, i) => {
         const title = card.title.split(' ').join('-');
-        return <Route key={i} path={title} element={<Temp />} />;
+        return <Route key={i} path={'/' + title} element={<Temp />} />;
       })}
+      <Route path="/" element={<App />} />
     </Routes>
   );
 }

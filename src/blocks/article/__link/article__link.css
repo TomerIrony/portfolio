@@ -1,3 +1,4 @@
 .article__link {
   color: rgb(54, 54, 131);
+  word-break: break-all;
 }

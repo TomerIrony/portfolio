@@ -122,7 +122,7 @@ function GoogleCloud(props) {
           instance on the VM page.
         </p>
       </div>
-      <div>
+      <div className="article__p">
         <h2>Connecting via your own terminal</h2>
         <p>
           In your local terminal, you can connect to your VM with the following
@@ -139,7 +139,7 @@ function GoogleCloud(props) {
           <br />
           It will likely show a message like this the first time you connect:
           <br />
-          <code>
+          <code className="article__code">
             The authenticity of host '24.121.126.87 (24.121.126.87)' can't be
             established. <br /> ECDSA key fingerprint is
             SHA256:4VuBWyupTo47qQNchEp1siEBxTh8An7thZbL2E3bDjY.
@@ -155,11 +155,13 @@ function GoogleCloud(props) {
           the "SSH" button).
         </p>
       </div>
-      <div>
+      <div className="article__p">
         <h2>Open an Additional Port</h2>
         <p>
           Now all that's left is to open port 3000. Go to the Firewall rules in
           the Google Cloud Console:
+          <br />
+          <br />
           <a
             className="article__link"
             rel="noreferrer"

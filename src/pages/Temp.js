@@ -4,6 +4,7 @@ import GoogleCloud from '../articles/GoogleCloud';
 
 function Temp(props) {
   const location = useLocation();
+  console.log('Test1');
 
   return (
     <div className="background">
@@ -12,9 +13,7 @@ function Temp(props) {
       </Link>
       <div className="article">
         <div className="article__container">
-          {location.pathname === '/Setting-up-a-Google-Cloud-server' ? (
-            <GoogleCloud />
-          ) : null}
+          <GoogleCloud location={location} />
         </div>
       </div>
     </div>
