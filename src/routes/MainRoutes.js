@@ -2,7 +2,7 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import cards from '../data/articles.json';
 import App from '../App';
-import Temp from '../components/Temp';
+import Temp from '../pages/Temp';
 
 function MainRoutes(props) {
   return (

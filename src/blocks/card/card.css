@@ -21,15 +21,14 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 769px) {
+/* @media screen and (max-width: 769px) {
   .card {
     width: 224px;
     height: 420px;
     margin-bottom: 8px;
-    /* height: max-content; */
     margin: 0 auto;
   }
-}
+} */
 
 @media screen and (max-width: 740px) {
   .card {
@@ -41,8 +40,8 @@
 
 @media screen and (max-width: 710px) {
   .card {
-    width: 100%;
-    height: max-content;
+    max-width: 310px;
+    height: 500px;
     margin: 10px auto 0;
   }
 }

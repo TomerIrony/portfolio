@@ -1,10 +1,9 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import GoogleCloud from '../articles/GoogleCloud';
 
 function Temp(props) {
   const location = useLocation();
-  const card = location.state;
-  console.log(card);
 
   return (
     <div className="background">
@@ -13,7 +12,9 @@ function Temp(props) {
       </Link>
       <div className="article">
         <div className="article__container">
-          <h1 className="article__header">{card.title}</h1>
+          {location.pathname === '/Setting-up-a-Google-Cloud-server' ? (
+            <GoogleCloud />
+          ) : null}
         </div>
       </div>
     </div>

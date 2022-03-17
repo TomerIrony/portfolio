@@ -1,16 +1,18 @@
 .card__caption {
-  max-width: 90%;
-  margin: 0 0 0 15px;
+  padding: 0 0 0 15px;
+  overflow: hidden;
 }
 
 @media screen and (max-width: 769px) {
   .card__caption {
     max-width: 90%;
+    min-height: 120px;
   }
 }
 
 @media screen and (max-width: 740px) {
   .card__caption {
     max-width: 90%;
+    min-height: 120px;
   }
 }

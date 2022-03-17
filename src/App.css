@@ -39,3 +39,5 @@
 @import url(./blocks/article/article.css);
 @import url(./blocks/article/__container/article__container.css);
 @import url(./blocks/article/__header/article__header.css);
+@import url(./blocks/article/__flex/article__flex.css);
+@import url(./blocks/article/__link/article__link.css);
