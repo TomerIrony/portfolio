@@ -1,17 +1,15 @@
 import './App.css';
-import Homepage from './components/Homepage';
-import Icons from './components/Icons';
-import Fullstack from './components/Fullstack';
-import Connect from './components/Connect';
+import { useState } from 'react';
+import BlogPage from './pages/BlogPage';
+import HomePage from './pages/HomePage';
 
-function App() {
+function App(props) {
+  const [page, setPage] = useState(false); // false = homepage, true = blog
   return (
     <div className="background">
       <div className="root">
-        <Homepage />
-        <Icons />
-        <Fullstack />
-        <Connect />
+        <HomePage page={page} setPage={setPage} />
+        <BlogPage page={page} setPage={setPage} />
       </div>
     </div>
   );

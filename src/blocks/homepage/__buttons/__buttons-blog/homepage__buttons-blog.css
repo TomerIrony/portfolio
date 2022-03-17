@@ -1,31 +1,27 @@
-.homepage__buttons-email {
+.homepage__buttons-blog {
   border: none;
   background-color: #676cdb;
   padding: 15px 55px;
+  margin: 0 0 0 15px;
   color: white;
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   position: relative;
   display: flex;
-  justify-content: center;
 }
 
-.homepage__buttons-email:hover {
+.homepage__buttons-blog:hover {
   cursor: pointer;
 }
 
-.homepage__buttons-email-text {
-}
-
 @media screen and (max-width: 750px) {
-  .homepage__buttons-email {
+  .homepage__buttons-blog {
     width: 45%;
     margin: 0 auto;
-    max-height: 60px;
     justify-content: center;
+    max-height: 60px;
   }
-  .homepage__buttons-email-text {
-    align-self: center;
+  .homepage__buttons-blog-text {
     white-space: nowrap;
   }
 }

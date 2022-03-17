@@ -1,0 +1,20 @@
+.blog__button-back {
+  border: none;
+  background-color: #676cdb;
+  padding: 15px 55px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  margin: 50px 0 0 0;
+}
+
+.blog__button-back:hover {
+  cursor: pointer;
+}
+
+.blog__button-back-text {
+  align-self: center;
+}

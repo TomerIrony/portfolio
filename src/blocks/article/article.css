@@ -1,0 +1,8 @@
+.article {
+  max-width: 1441px;
+  margin: 0 auto;
+  height: 100vh;
+  box-sizing: border-box;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}

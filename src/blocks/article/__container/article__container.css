@@ -1,0 +1,9 @@
+.article__container {
+  background-color: rgb(156, 155, 155);
+  color: black;
+  height: 1000px;
+  width: 80%;
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+}
