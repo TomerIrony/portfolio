@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "https://tomerirony.github.io/protfolio/static/css/main.aab1a3b4.css",
-    "main.js": "https://tomerirony.github.io/protfolio/static/js/main.66e91f71.js",
+    "main.css": "https://tomerirony.github.io/protfolio/static/css/main.c847d1e2.css",
+    "main.js": "https://tomerirony.github.io/protfolio/static/js/main.8b6928ce.js",
     "static/media/mongodblogo.svg": "https://tomerirony.github.io/protfolio/static/media/mongodblogo.277efc54854ab1dca0af76dddd245ada.svg",
     "static/media/react.svg": "https://tomerirony.github.io/protfolio/static/media/react.d90a432960b9c08198726a11c6d6b649.svg",
     "static/media/nodejs.svg": "https://tomerirony.github.io/protfolio/static/media/nodejs.321dd6587582467e9a715ff3239433d2.svg",
+    "static/media/linkedin.svg": "https://tomerirony.github.io/protfolio/static/media/linkedin.678f40c073407b9b1938c51a135e1d7b.svg",
+    "static/media/github.svg": "https://tomerirony.github.io/protfolio/static/media/github.42a92e827eeede4346a642a923e02b67.svg",
     "index.html": "https://tomerirony.github.io/protfolio/index.html",
     "static/media/mail.svg": "https://tomerirony.github.io/protfolio/static/media/mail.83dacc98be75f7e44dda68cdf59e71cb.svg",
     "static/media/left.svg": "https://tomerirony.github.io/protfolio/static/media/left.b53d8e476624dffaf19c04408be01649.svg",
     "static/media/html.svg": "https://tomerirony.github.io/protfolio/static/media/html.f380fc4c5b8be29e4ebb67bcbe0a24bb.svg",
     "static/media/css.svg": "https://tomerirony.github.io/protfolio/static/media/css.e781ef8da95e09db4239544d6210b31b.svg",
-    "main.aab1a3b4.css.map": "https://tomerirony.github.io/protfolio/static/css/main.aab1a3b4.css.map",
-    "main.66e91f71.js.map": "https://tomerirony.github.io/protfolio/static/js/main.66e91f71.js.map"
+    "main.c847d1e2.css.map": "https://tomerirony.github.io/protfolio/static/css/main.c847d1e2.css.map",
+    "main.8b6928ce.js.map": "https://tomerirony.github.io/protfolio/static/js/main.8b6928ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.aab1a3b4.css",
-    "static/js/main.66e91f71.js"
+    "static/css/main.c847d1e2.css",
+    "static/js/main.8b6928ce.js"
   ]
 }
