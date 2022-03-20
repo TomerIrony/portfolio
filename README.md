@@ -1,3 +1,3 @@
 
-Open [https://tomerirony.github.io/protfolio/](https://tomerirony.github.io/protfolio/) 
+Open [https://tomerirony.github.io/portfolio/](https://tomerirony.github.io/portfolio/) 
 
