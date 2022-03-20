@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://tomerirony.github.io/portfolio/static/css/main.669cb49e.css",
-    "main.js": "https://tomerirony.github.io/portfolio/static/js/main.2e2a855d.js",
+    "main.css": "https://tomerirony.github.io/portfolio/static/css/main.c668ee45.css",
+    "main.js": "https://tomerirony.github.io/portfolio/static/js/main.a3ebb829.js",
     "static/media/mongodblogo.svg": "https://tomerirony.github.io/portfolio/static/media/mongodblogo.277efc54854ab1dca0af76dddd245ada.svg",
     "static/media/react.svg": "https://tomerirony.github.io/portfolio/static/media/react.d90a432960b9c08198726a11c6d6b649.svg",
     "static/media/nodejs.svg": "https://tomerirony.github.io/portfolio/static/media/nodejs.321dd6587582467e9a715ff3239433d2.svg",
@@ -12,11 +12,11 @@
     "static/media/left.svg": "https://tomerirony.github.io/portfolio/static/media/left.b53d8e476624dffaf19c04408be01649.svg",
     "static/media/html.svg": "https://tomerirony.github.io/portfolio/static/media/html.f380fc4c5b8be29e4ebb67bcbe0a24bb.svg",
     "static/media/css.svg": "https://tomerirony.github.io/portfolio/static/media/css.e781ef8da95e09db4239544d6210b31b.svg",
-    "main.669cb49e.css.map": "https://tomerirony.github.io/portfolio/static/css/main.669cb49e.css.map",
-    "main.2e2a855d.js.map": "https://tomerirony.github.io/portfolio/static/js/main.2e2a855d.js.map"
+    "main.c668ee45.css.map": "https://tomerirony.github.io/portfolio/static/css/main.c668ee45.css.map",
+    "main.a3ebb829.js.map": "https://tomerirony.github.io/portfolio/static/js/main.a3ebb829.js.map"
   },
   "entrypoints": [
-    "static/css/main.669cb49e.css",
-    "static/js/main.2e2a855d.js"
+    "static/css/main.c668ee45.css",
+    "static/js/main.a3ebb829.js"
   ]
 }
