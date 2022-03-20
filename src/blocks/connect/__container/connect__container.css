@@ -1,11 +1,13 @@
 .connect__container {
-  width: 82%;
-  margin: 100px auto 0;
+  width: max-content;
+  padding: 100px 0 0;
+  margin: 0 0 0 100px;
   overflow: hidden;
+  justify-self: flex-start;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 970px) {
   .connect__container {
-    margin: 50px auto 0;
+    margin: 0;
   }
 }

@@ -1,0 +1,30 @@
+.form__text-input {
+  padding: 0 0 13px;
+  background-color: transparent;
+  border: none;
+  margin: 0 0 30px;
+  color: white;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.2;
+  outline: none;
+  border-bottom: 1px solid rgba(248, 248, 248, 0.842);
+}
+
+.form__text-input:valid {
+  border-bottom: 1px solid rgba(245, 243, 243, 0.877);
+}
+
+.form__text-input::placeholder {
+  margin-top: 10px;
+}
+
+.form__text-input-textarea {
+  height: 100px;
+  resize: none;
+}
+
+.form__text-input:focus {
+  border-bottom: 1px solid rgba(255, 254, 254, 0.849);
+}

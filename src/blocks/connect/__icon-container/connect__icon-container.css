@@ -1,13 +1,18 @@
 .connect__icon-container {
   display: flex;
-  width: 8%;
+  width: 100%;
   margin: 45px 0 0 0;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 @media screen and (max-width: 750px) {
   .connect__icon-container {
-    width: 15%;
+    width: 100%;
     margin: 20px 0 0 0;
+  }
+}
+@media screen and (max-width: 970px) {
+  .connect__icon-container {
+    width: 100%;
   }
 }

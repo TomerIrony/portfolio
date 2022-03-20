@@ -26,7 +26,6 @@
 @import url(./blocks/connect/__container/connect__container.css);
 @import url(./blocks/connect/__container/__container-text/connect__container-text.css);
 @import url(./blocks/connect/__icon-container/connect__icon-container.css);
-@import url(./blocks/connect/__icon-linkedin/connect__icon-linkedin.css);
 @import url(./blocks/homepage/__buttons/__buttons-blog/homepage__buttons-blog.css);
 @import url(./blocks/blog/blog.css);
 @import url(./blocks/blog/__button/blog__button-back.css);
@@ -41,3 +40,9 @@
 @import url(./blocks/article/__header/article__header.css);
 @import url(./blocks/article/__flex/article__flex.css);
 @import url(./blocks/article/__link/article__link.css);
+@import url(./blocks/form/form.css);
+@import url(./blocks/form/__fieldset/form__fieldset.css);
+@import url(./blocks/form/__text/form__text-input.css);
+@import url(./blocks/form/__input/form__input.css);
+@import url(./blocks/form/__submit/form__submit.css);
+@import url(./blocks/connect/__icon/connect__icon.css);

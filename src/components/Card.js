@@ -1,12 +1,13 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 function Card(props) {
   return (
-    <Link
+    <div
       className="card"
-      to={props.title.split(' ').join('-')}
-      state={props.card}
+      onClick={() => {
+        props.setTest(true);
+        props.setArticle(props.card.id);
+      }}
     >
       <img
         id="cardImage"
@@ -18,11 +19,10 @@ function Card(props) {
         <p className="card__date">{props.date}</p>
 
         <h2 className="card__name">
-          {' '}
           <div>{props.title}</div>
         </h2>
       </div>
-    </Link>
+    </div>
   );
 }
 

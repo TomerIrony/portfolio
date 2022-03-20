@@ -8,10 +8,6 @@
   font-family: 'Roboto', sans-serif;
 }
 
-.article__p {
-  width: 90%;
-}
-
 .article__code {
   word-break: break-all;
 }
