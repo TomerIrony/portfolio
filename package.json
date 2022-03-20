@@ -1,7 +1,7 @@
 {
-  "name": "protfolio",
+  "name": "portfolio",
   "version": "0.7.2",
-  "homepage": "https://tomerirony.github.io/protfolio",
+  "homepage": "https://tomerirony.github.io/portfolio",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
