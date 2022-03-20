@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Articles Search Engine",
+    "text": "dd",
+    "src": "https://cdn.paperpile.com/guides/img/academic-search-engines-illust-400x400.png",
+    "id": "Articles",
+    "project": true,
+    "link": "https://github.com/TomerIrony/news-explorer-frontend"
+  },
+  {
+    "title": "Products shop",
+    "text": "dd",
+    "src": "https://a7.org/pictures/973/973277.jpg",
+    "id": "reactproduct",
+    "project": true,
+    "link": "https://github.com/TomerIrony/react-product"
+  },
+  {
+    "title": "A Social Network - Around the U.S",
+    "text": "dd",
+    "src": "https://images.unsplash.com/photo-1500763702684-af70eba9a9f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZSUyMHRha2luZ3xlbnwwfHwwfHw%3D&w=1000&q=80",
+    "id": "reactproduct",
+    "project": true,
+    "link": "https://github.com/TomerIrony/react-product"
+  }
+]
