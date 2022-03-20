@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://tomerirony.github.io/protfolio/static/css/main.669cb49e.css",
-    "main.js": "https://tomerirony.github.io/protfolio/static/js/main.45b671d0.js",
-    "static/media/mongodblogo.svg": "https://tomerirony.github.io/protfolio/static/media/mongodblogo.277efc54854ab1dca0af76dddd245ada.svg",
-    "static/media/react.svg": "https://tomerirony.github.io/protfolio/static/media/react.d90a432960b9c08198726a11c6d6b649.svg",
-    "static/media/nodejs.svg": "https://tomerirony.github.io/protfolio/static/media/nodejs.321dd6587582467e9a715ff3239433d2.svg",
-    "static/media/linkedin.svg": "https://tomerirony.github.io/protfolio/static/media/linkedin.678f40c073407b9b1938c51a135e1d7b.svg",
-    "static/media/github.svg": "https://tomerirony.github.io/protfolio/static/media/github.42a92e827eeede4346a642a923e02b67.svg",
-    "index.html": "https://tomerirony.github.io/protfolio/index.html",
-    "static/media/mail.svg": "https://tomerirony.github.io/protfolio/static/media/mail.83dacc98be75f7e44dda68cdf59e71cb.svg",
-    "static/media/left.svg": "https://tomerirony.github.io/protfolio/static/media/left.b53d8e476624dffaf19c04408be01649.svg",
-    "static/media/html.svg": "https://tomerirony.github.io/protfolio/static/media/html.f380fc4c5b8be29e4ebb67bcbe0a24bb.svg",
-    "static/media/css.svg": "https://tomerirony.github.io/protfolio/static/media/css.e781ef8da95e09db4239544d6210b31b.svg",
-    "main.669cb49e.css.map": "https://tomerirony.github.io/protfolio/static/css/main.669cb49e.css.map",
-    "main.45b671d0.js.map": "https://tomerirony.github.io/protfolio/static/js/main.45b671d0.js.map"
+    "main.css": "https://tomerirony.github.io/portfolio/static/css/main.669cb49e.css",
+    "main.js": "https://tomerirony.github.io/portfolio/static/js/main.2e2a855d.js",
+    "static/media/mongodblogo.svg": "https://tomerirony.github.io/portfolio/static/media/mongodblogo.277efc54854ab1dca0af76dddd245ada.svg",
+    "static/media/react.svg": "https://tomerirony.github.io/portfolio/static/media/react.d90a432960b9c08198726a11c6d6b649.svg",
+    "static/media/nodejs.svg": "https://tomerirony.github.io/portfolio/static/media/nodejs.321dd6587582467e9a715ff3239433d2.svg",
+    "static/media/linkedin.svg": "https://tomerirony.github.io/portfolio/static/media/linkedin.678f40c073407b9b1938c51a135e1d7b.svg",
+    "static/media/github.svg": "https://tomerirony.github.io/portfolio/static/media/github.42a92e827eeede4346a642a923e02b67.svg",
+    "index.html": "https://tomerirony.github.io/portfolio/index.html",
+    "static/media/mail.svg": "https://tomerirony.github.io/portfolio/static/media/mail.83dacc98be75f7e44dda68cdf59e71cb.svg",
+    "static/media/left.svg": "https://tomerirony.github.io/portfolio/static/media/left.b53d8e476624dffaf19c04408be01649.svg",
+    "static/media/html.svg": "https://tomerirony.github.io/portfolio/static/media/html.f380fc4c5b8be29e4ebb67bcbe0a24bb.svg",
+    "static/media/css.svg": "https://tomerirony.github.io/portfolio/static/media/css.e781ef8da95e09db4239544d6210b31b.svg",
+    "main.669cb49e.css.map": "https://tomerirony.github.io/portfolio/static/css/main.669cb49e.css.map",
+    "main.2e2a855d.js.map": "https://tomerirony.github.io/portfolio/static/js/main.2e2a855d.js.map"
   },
   "entrypoints": [
     "static/css/main.669cb49e.css",
-    "static/js/main.45b671d0.js"
+    "static/js/main.2e2a855d.js"
   ]
 }
