@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://tomerirony.github.io/portfolio/static/css/main.c668ee45.css",
+    "main.css": "https://tomerirony.github.io/portfolio/static/css/main.2cda1103.css",
     "main.js": "https://tomerirony.github.io/portfolio/static/js/main.a0b73662.js",
     "static/media/mongodblogo.svg": "https://tomerirony.github.io/portfolio/static/media/mongodblogo.277efc54854ab1dca0af76dddd245ada.svg",
     "static/media/react.svg": "https://tomerirony.github.io/portfolio/static/media/react.d90a432960b9c08198726a11c6d6b649.svg",
@@ -12,11 +12,11 @@
     "static/media/left.svg": "https://tomerirony.github.io/portfolio/static/media/left.b53d8e476624dffaf19c04408be01649.svg",
     "static/media/html.svg": "https://tomerirony.github.io/portfolio/static/media/html.f380fc4c5b8be29e4ebb67bcbe0a24bb.svg",
     "static/media/css.svg": "https://tomerirony.github.io/portfolio/static/media/css.e781ef8da95e09db4239544d6210b31b.svg",
-    "main.c668ee45.css.map": "https://tomerirony.github.io/portfolio/static/css/main.c668ee45.css.map",
+    "main.2cda1103.css.map": "https://tomerirony.github.io/portfolio/static/css/main.2cda1103.css.map",
     "main.a0b73662.js.map": "https://tomerirony.github.io/portfolio/static/js/main.a0b73662.js.map"
   },
   "entrypoints": [
-    "static/css/main.c668ee45.css",
+    "static/css/main.2cda1103.css",
     "static/js/main.a0b73662.js"
   ]
 }
