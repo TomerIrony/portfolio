@@ -5,6 +5,7 @@ import githubSvg from '../images/github.svg';
 
 function Connect(props) {
   const [windowWidth, setWindowWidth] = useState(0);
+  const [formSubmit, setFormSubmit] = useState(false);
   let resizeWindow = () => {
     setWindowWidth(window.innerWidth);
   };
@@ -28,6 +29,9 @@ function Connect(props) {
       )
       .then(
         (result) => {
+          if (result.status === 200) {
+            setFormSubmit(true);
+          }
           console.log(result.text);
         },
         (error) => {
@@ -70,48 +74,52 @@ function Connect(props) {
           </div>
         </div>
       </div>
-      <form
-        ref={form}
-        className="form"
-        onSubmit={(e) => {
-          handleSubmit(e);
-        }}
-      >
-        <fieldset className="form__fieldset">
-          <legend>
-            <h2 className="form__heading">Email me</h2>
-          </legend>
-          <input
-            name="name"
-            required
-            placeholder="Name"
-            className="form__text-input form__input"
-          />
-          <input
-            required
-            name="email"
-            type="email"
-            placeholder="Email"
-            className="form__text-input form__input"
-          />
-          <input
-            required
-            name="subject"
-            placeholder="Subject"
-            className="form__text-input form__input"
-          />
-          <textarea
-            name="message"
-            className="form__text-input-textarea form__text-input form__input"
-            required
-            placeholder="Message"
-          ></textarea>
+      {formSubmit ? (
+        <div className="email">Email sent!</div>
+      ) : (
+        <form
+          ref={form}
+          className="form"
+          onSubmit={(e) => {
+            handleSubmit(e);
+          }}
+        >
+          <fieldset className="form__fieldset">
+            <legend>
+              <h2 className="form__heading">Email me</h2>
+            </legend>
+            <input
+              name="name"
+              required
+              placeholder="Name"
+              className="form__text-input form__input"
+            />
+            <input
+              required
+              name="email"
+              type="email"
+              placeholder="Email"
+              className="form__text-input form__input"
+            />
+            <input
+              required
+              name="subject"
+              placeholder="Subject"
+              className="form__text-input form__input"
+            />
+            <textarea
+              name="message"
+              className="form__text-input-textarea form__text-input form__input"
+              required
+              placeholder="Message"
+            ></textarea>
 
-          <button type="submit" className="login__submit-btn form__submit">
-            Send
-          </button>
-        </fieldset>
-      </form>
+            <button type="submit" className="login__submit-btn form__submit">
+              Send
+            </button>
+          </fieldset>
+        </form>
+      )}
     </div>
   );
 }

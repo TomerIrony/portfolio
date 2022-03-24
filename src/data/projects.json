@@ -1,7 +1,6 @@
 [
   {
     "title": "Articles Search Engine",
-    "text": "dd",
     "src": "https://cdn.paperpile.com/guides/img/academic-search-engines-illust-400x400.png",
     "id": "Articles",
     "project": true,
@@ -9,7 +8,6 @@
   },
   {
     "title": "Products shop",
-    "text": "dd",
     "src": "https://a7.org/pictures/973/973277.jpg",
     "id": "reactproduct",
     "project": true,
@@ -17,10 +15,16 @@
   },
   {
     "title": "A Social Network - Around the U.S",
-    "text": "dd",
     "src": "https://images.unsplash.com/photo-1500763702684-af70eba9a9f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGljdHVyZSUyMHRha2luZ3xlbnwwfHwwfHw%3D&w=1000&q=80",
-    "id": "reactproduct",
+    "id": "aroundtheus",
     "project": true,
-    "link": "https://github.com/TomerIrony/react-product"
+    "link": "https://github.com/TomerIrony/react-around-api-full"
+  },
+  {
+    "title": "T.V shows finder",
+    "src": "https://media.istockphoto.com/photos/rear-view-of-a-couple-watching-tv-while-relaxing-on-the-sofa-at-home-picture-id1132715308?k=20&m=1132715308&s=612x612&w=0&h=XCgQ-xuTiphLCkIYv2A9GBLAsFkV5cHxd69tpNVoKoc=",
+    "id": "tvshows",
+    "project": true,
+    "link": "https://github.com/TomerIrony/shows-selector"
   }
 ]
